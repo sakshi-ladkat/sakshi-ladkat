@@ -1,7 +1,12 @@
 # Hallo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 
 Mein Name ist **Sakshi Ladkat**  
-Full-Stack IUCAA Intern | Java, PHP, React, Laravel | Coffee-fueled coder ☕💻  
+
+---
+
+## 👩‍💻 About Me
+I build things that solve problems, sometimes even before I realize they exist.  
+Coffee in one hand, keyboard in the other ☕💻.  
 
 ---
 
@@ -18,14 +23,6 @@ Full-Stack IUCAA Intern | Java, PHP, React, Laravel | Coffee-fueled coder ☕�
 
 ---
 
-## 📊 GitHub Stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-ladkat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-ladkat&layout=compact&theme=radical)
-
----
-
-
 ## 😂 Fun Facts
 - I write code that works… sometimes on the first try.  
 - Coffee is my debugging tool.  
@@ -35,7 +32,7 @@ Full-Stack IUCAA Intern | Java, PHP, React, Laravel | Coffee-fueled coder ☕�
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakshi%20Ladkat-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-ladkat/)  
-Email: `ladkatsakshi2507@gmail.com`  
+Email: `your-email@example.com`  
 
 ---
 
