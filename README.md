@@ -1,12 +1,7 @@
 # Hallo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 
 Mein Name ist **Sakshi Ladkat**  
-
----
-
-## 👩‍💻 About Me
-I build things that solve problems, sometimes even before I realize they exist.  
-Coffee in one hand, keyboard in the other ☕💻.  
+Full-Stack IUCAA Intern | Java, PHP, React, Laravel | Coffee-fueled coder ☕💻  
 
 ---
 
@@ -22,6 +17,14 @@ Coffee in one hand, keyboard in the other ☕💻.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Render](https://img.shields.io/badge/Render-212121?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-263238?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-ladkat&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-ladkat&layout=compact&theme=radical)
+
+---
+
 
 ## 😂 Fun Facts
 - I write code that works… sometimes on the first try.  
