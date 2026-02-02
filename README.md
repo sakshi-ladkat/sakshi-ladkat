@@ -32,7 +32,7 @@ Coffee in one hand, keyboard in the other ☕💻.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakshi%20Ladkat-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-ladkat/)  
-Email: `your-email@example.com`  
+Email: `ladkatsakshi2507@gmail.com`  
 
 ---
 
